@@ -8,3 +8,5 @@ git add -> adds it
 git commit -m ""
 git log
 Git diff <filename>
+
+Harsh
